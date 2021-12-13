@@ -1,0 +1,13 @@
+body {
+  background-color: #eca7b2;
+  text-align: center;
+}
+
+.result{
+    
+  display: inline-block;
+  width:20%;
+  height:60px;
+ }
+
+ 
