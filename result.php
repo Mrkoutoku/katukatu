@@ -6,6 +6,9 @@
 <title>勝活</title>
 <link rel="stylesheet" href="./reset.css">
 <link rel="stylesheet" href="./result.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap" rel="stylesheet">
 </head>
 <body>
 <h1><span>お疲れ様でした</span></h1>
