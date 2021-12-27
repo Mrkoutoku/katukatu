@@ -15,7 +15,7 @@
 <body>
 <div class="main">
    <h1>勝活</h1>
-   
+ 
  <div class="waku">
       <form method="post" action="keisan.php">
             <h2>プレイヤーの方は<br/>ニックネームを入力してください</h2><br/>
